@@ -1,4 +1,8 @@
 ---
 -hosts:all
 tasks:
-         -command:"hostname"
+    
+        -command:"hostname"
+        -user22 cmd
+        -logout uuser2 
+        -Siemen iamuser
