@@ -1,1 +1,1 @@
-printf{"this is day two and new code"}
+printf {"this is day two and new code"}
